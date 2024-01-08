@@ -1,2 +1,2 @@
-# code
-Compillation of python code
+# Python-projects
+In this repository, there are some compilations of small python projects.
